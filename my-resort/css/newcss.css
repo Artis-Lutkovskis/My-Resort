@@ -1,0 +1,30 @@
+-moz-box-shadow:inset 0px 0px 0px 0px #fbafe3;
+	-webkit-box-shadow:inset 0px 0px 0px 0px #fbafe3;
+	box-shadow:inset 0px 0px 0px 0px #fbafe3;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff5bb0), color-stop(1, #ef027d) );
+	background:-moz-linear-gradient( center top, #ff5bb0 5%, #ef027d 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bb0', endColorstr='#ef027d');
+	background-color:#ff0099;
+	border:1px solid #cc0066;
+	display:inline-block;
+	color:#ffffff;
+	font-size:16px;
+	font-weight:normal;
+	padding:4px 32px;
+	text-decoration:none;
+        margin-top: 0px;
+        margin-left: 267px;
+        margin-bottom: 0px;
+	position: relative;
+        /* 
+    Document   : newcss
+    Created on : May 21, 2013, 7:31:56 PM
+    Author     : Olga
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
